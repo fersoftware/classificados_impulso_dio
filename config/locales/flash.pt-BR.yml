@@ -8,3 +8,8 @@ pt-BR:
   users:
     create:
       success: "Cadastro realizado com sucesso!"
+  ads:
+    create:
+      success: "Anúncio criado com sucesso"
+    update:
+      success: "Anúncio atualizado com sucesso"
