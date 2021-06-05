@@ -1,9 +1,7 @@
 # README
 <br>
-This README would normally document whatever steps are necessary to get the<br>
-application up and running.<br>
-<br>
-Things you may want to cover:<br>
+Link: https://fersoft-classificados-dio.herokuapp.com/ <br>
+Trello: https://trello.com/b/fPYeG8VM/sistemas-de-classificados-com-ruby-on-rails
 <br>
 * Ruby version<br>
 ruby 2.7.2p137 (2020-10-01 revision 5445e04352) [x86_64-linux]<br>
