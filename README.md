@@ -7,8 +7,7 @@ Things you may want to cover:<br>
 <br>
 * Ruby version<br>
 ruby 2.7.2p137 (2020-10-01 revision 5445e04352) [x86_64-linux]<br>
-<br>
-*asdf --version<br>
+* asdf --version<br>
 v0.8.1-a1ef92a<br>
 <br>
 <br>
